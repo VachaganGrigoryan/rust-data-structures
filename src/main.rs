@@ -34,16 +34,16 @@ fn main() {
     // println!("{:?}", q.dequeue());
     // println!("{:?}", q);
 
-    let mut l = LinkedList::<i32>::new();
+    // let mut l = LinkedList::<i32>::new();
+    // // l.insert(65);
     // l.insert(65);
-    l.insert(65);
-    l.push(7);
-    l.push(6);
-    l.insert(95);
-
-
-    println!("{:?}", l);
-    for i in l.into_iter() {
-        println!("{:?}", i);
-    }
+    // l.push(7);
+    // l.push(6);
+    // l.insert(95);
+    //
+    //
+    // println!("{:?}", l);
+    // for i in l.into_iter() {
+    //     println!("{:?}", i);
+    // }
 }

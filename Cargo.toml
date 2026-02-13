@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 rds = {path = './rds'}
+variables = {path = './variables'}
